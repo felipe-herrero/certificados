@@ -16,4 +16,4 @@ Curso de Introdução à Informática
 
 ## Certificado
 
-![Certificado](./certificado-futura.png)
+![Certificado](./certificado-futura-cursos.png)
