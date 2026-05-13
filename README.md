@@ -202,6 +202,8 @@ Curso de Introdução à Informática
 
 ---
 
+# Certificados
+
 ## Udemy
 
 ### Data Science: Visualização de Dados com Python
