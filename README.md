@@ -157,3 +157,25 @@ Curso de Introdução à Informática
 ## Certificado
 
 ![DevOps AI](./devops-ai-facebook.png)
+
+---
+
+# Formação Acadêmica
+
+## Tecnólogo em Análise e Desenvolvimento de Sistemas
+
+🏫 UNINOVE - Universidade Nove de Julho
+
+### Principais áreas estudadas
+- Desenvolvimento de Software
+- Banco de Dados
+- Lógica de Programação
+- Desenvolvimento Web
+- Flutter
+- Python
+- Power BI
+- Tecnologia da Informação
+
+## Diploma
+
+![Diploma ADS](./diploma-ads-uninove.png)
