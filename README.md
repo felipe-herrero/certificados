@@ -140,3 +140,20 @@ Curso de Introdução à Informática
 ## Certificado
 
 ![Primeiros Socorros e Direção Defensiva](./primeiros-socorros-direcao-defensiva.png)
+
+---
+
+## DevOps para AI Developer
+
+🏫 Developer Circles from Facebook
+
+### Conteúdo
+- DevOps
+- Inteligência Artificial
+- Automação
+- Integração contínua
+- Desenvolvimento moderno
+
+## Certificado
+
+![DevOps AI](./devops-ai-facebook.png)
