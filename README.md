@@ -90,3 +90,19 @@ Curso de Introdução à Informática
 ## Certificado
 
 ![Power BI](./powerbi-fundacao-bradesco.png)
+
+---
+
+## Workshop Database Academy
+
+🏫 UNINOVE
+
+### Conteúdo
+- Banco de dados
+- Estrutura de dados
+- Armazenamento de informações
+- Tecnologia aplicada a dados
+
+## Certificado
+
+![UNINOVE](./workshop-database-academy-uninove.png)
