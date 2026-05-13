@@ -123,3 +123,20 @@ Curso de Introdução à Informática
 ## Certificado
 
 ![Python](./introducao-python-diego-mariano.png)
+
+---
+
+## Primeiros Socorros e Direção Defensiva
+
+🏫 INBRAEP
+
+### Conteúdo
+- Primeiros socorros
+- Atendimento inicial
+- Segurança
+- Direção defensiva
+- Prevenção de acidentes
+
+## Certificado
+
+![Primeiros Socorros e Direção Defensiva](./primeiros-socorros-direcao-defensiva.png)
