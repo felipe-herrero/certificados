@@ -182,18 +182,34 @@ Curso de Introdução à Informática
 
 # Certificados
 
-## 🎓 Udemy
+## Futura Cursos
+
+### Curso de Introdução à Informática
+
+- Windows XP
+- Word XP
+- Excel XP
+- PowerPoint XP
+- Access XP
+- Internet Explorer 6.0
+
+📅 Conclusão: Outubro/2010  
+⏱️ Carga horária: 96 horas
+
+## Certificado
+
+![Certificado](./futura-cursos.png)
+
+---
+
+## Udemy
 
 ### Data Science: Visualização de Dados com Python
 
-- Visualização de dados com Python
-- Introdução ao Matplotlib
-- Construção de gráficos
-- Análise visual de dados
-
+📚 Instituição: Udemy  
 📅 Conclusão: 2026  
 ⏱️ Carga horária: 2h50
 
-## 🖼️ Certificado
+## Certificado
 
-![Certificado Udemy](./data-science-python.png)
+![Certificado](./data-science-python.png)
