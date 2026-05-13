@@ -17,3 +17,21 @@ Curso de Introdução à Informática
 ## Certificado
 
 ![Certificado](./futura-cursos.png)
+
+
+---
+
+## Técnicas em Manutenção de Computadores
+
+📅 Conclusão: Outubro/2010  
+⏱️ Carga horária: 48 horas
+
+### Conteúdo
+- Manutenção de computadores
+- Hardware
+- Suporte técnico
+- Diagnóstico básico
+
+## Certificado
+
+![Manutenção](./manutencao-computadores.png)
