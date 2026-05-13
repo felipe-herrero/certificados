@@ -73,3 +73,20 @@ Curso de Introdução à Informática
 ## Certificado
 
 ![Faculdade XP](./data-beginner-faculdade-xp.png)
+
+---
+
+## Introdução à Análise de Dados - Microsoft Power BI
+
+🏫 Fundação Bradesco
+
+### Conteúdo
+- Power BI
+- Visualização de dados
+- Dashboards
+- Business Intelligence
+- Análise de dados
+
+## Certificado
+
+![Power BI](./powerbi-fundacao-bradesco.png)
