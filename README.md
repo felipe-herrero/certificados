@@ -55,3 +55,21 @@ Curso de Introdução à Informática
 ## Certificado
 
 ![Design](./design-grafico-web.png)
+
+---
+
+## Minicamp Data Beginner
+
+🏫 Faculdade XP  
+📅 Julho/2025  
+⏱️ 20 horas
+
+### Conteúdo
+- Fundamentos de dados
+- Introdução à análise de dados
+- Tecnologia aplicada a dados
+- Analytics
+
+## Certificado
+
+![Faculdade XP](./data-beginner-faculdade-xp.png)
