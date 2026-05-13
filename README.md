@@ -179,3 +179,21 @@ Curso de Introdução à Informática
 ## Diploma
 
 ![Diploma ADS](./diploma-ads-uninove.png)
+
+# Certificados
+
+## 🎓 Udemy
+
+### Data Science: Visualização de Dados com Python
+
+- Visualização de dados com Python
+- Introdução ao Matplotlib
+- Construção de gráficos
+- Análise visual de dados
+
+📅 Conclusão: 2026  
+⏱️ Carga horária: 2h50
+
+## 🖼️ Certificado
+
+![Certificado Udemy](./data-science-python.png)
