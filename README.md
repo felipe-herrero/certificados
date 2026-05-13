@@ -35,3 +35,23 @@ Curso de Introdução à Informática
 ## Certificado
 
 ![Manutenção](./manutencao-computadores.png)
+
+---
+
+## Design Gráfico e Web Design
+
+📅 Conclusão: 2010  
+🏫 S.O.S Tecnologia e Educação Profissional
+
+### Tecnologias estudadas
+- Photoshop CS3
+- Corel Draw X3
+- InDesign CS3
+- Fireworks 8
+- Flash 8
+- Dreamweaver 8
+- Projetos de websites
+
+## Certificado
+
+![Design](./design-grafico-web.png)
