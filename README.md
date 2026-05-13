@@ -106,3 +106,20 @@ Curso de Introdução à Informática
 ## Certificado
 
 ![UNINOVE](./workshop-database-academy-uninove.png)
+
+---
+
+## Introdução ao Python
+
+🏫 Prof. Diego Mariano
+
+### Conteúdo
+- Lógica de programação
+- Python
+- Variáveis
+- Estruturas condicionais
+- Fundamentos de programação
+
+## Certificado
+
+![Python](./introducao-python-diego-mariano.png)
